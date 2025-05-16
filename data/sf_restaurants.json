@@ -1,0 +1,2186 @@
+[
+  {
+    "businessName": "Plaza Garibaldy",
+    "address": "540 HOWARD ST",
+    "location": {
+      "latitude": "37.78795495968584",
+      "longitude": "-122.39723654373122"
+    },
+    "fooditems": "Tacos: burritos: quesadillas",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Plaza Garibaldy",
+    "address": "1 MONTGOMERY ST",
+    "location": {
+      "latitude": "37.78924953407508",
+      "longitude": "-122.40241859729358"
+    },
+    "fooditems": "Tacos: burritos: quesadillas",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Plaza Garibaldy",
+    "address": "475 CALIFORNIA ST",
+    "location": {
+      "latitude": "37.792346385148",
+      "longitude": "-122.40238532279395"
+    },
+    "fooditems": "Tacos: burritos: quesadillas",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "HalalCartSF LLC",
+    "address": "455 MARKET ST",
+    "location": {
+      "latitude": "37.79094704192342",
+      "longitude": "-122.39863358940373"
+    },
+    "fooditems": "Gyros: Kebabs: soft drinks: and water",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "HalalCartSF LLC",
+    "address": "400 MONTGOMERY ST",
+    "location": {
+      "latitude": "37.79314862698347",
+      "longitude": "-122.4025671755779"
+    },
+    "fooditems": "Halal Gyro over Rice: Halal Chicken over Rice: Halal Gyro: and Chicken Sandwich",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "HalalCartSF LLC",
+    "address": "1 MARKET ST",
+    "location": {
+      "latitude": "37.793871507150634",
+      "longitude": "-122.39486523862108"
+    },
+    "fooditems": "Halal Gyro over Rice: Halal Chicken over Rice: Halal Gyro: and Chicken Sandwich",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "HalalCartSF LLC",
+    "address": "1 MARKET ST",
+    "location": {
+      "latitude": "37.793871507150634",
+      "longitude": "-122.39486523862108"
+    },
+    "fooditems": "kebabs: halal gyro: grilled halal meat: refreshments",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "HalalCartSF LLC",
+    "address": "400 MONTGOMERY ST",
+    "location": {
+      "latitude": "37.79314862698347",
+      "longitude": "-122.4025671755779"
+    },
+    "fooditems": "kebabs: halal gyro: grilled halal meat: refreshments",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Street Meet",
+    "address": "100 LARKIN ST",
+    "location": {
+      "latitude": "37.779159119969",
+      "longitude": "-122.4158078824267"
+    },
+    "fooditems": "Burritos: Tacos: Quesadillas: Tortas: Carne Asada Fries and various drinks",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Street Meet",
+    "address": "30 GROVE ST",
+    "location": {
+      "latitude": "37.779159119969",
+      "longitude": "-122.4158078824267"
+    },
+    "fooditems": "Burritos: Tacos: Quesadillas: Tortas: Carne Asada Fries and various drinks",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Street Meet",
+    "address": "306 VALENCIA ST",
+    "location": {
+      "latitude": "37.767855269354264",
+      "longitude": "-122.42248440416165"
+    },
+    "fooditems": "Burritos: Tacos: Tortas: Quesadillas & Various Drinks.",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Street Meet",
+    "address": "777 MARIPOSA ST",
+    "location": {
+      "latitude": "37.76381127729062",
+      "longitude": "-122.3912653505994"
+    },
+    "fooditems": "Tacos: burritos: quesadillas: tortas: asada fries: nachos",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "FRUITYMANIA",
+    "address": "801 MARKET ST",
+    "location": {
+      "latitude": "37.784990279306456",
+      "longitude": "-122.40567662907203"
+    },
+    "fooditems": "Fruit Salads: Fruit Drinks: Can Soda: Water",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "FRUITYMANIA",
+    "address": "870 MARKET ST",
+    "location": {
+      "latitude": "37.78511092044776",
+      "longitude": "-122.40742266827704"
+    },
+    "fooditems": "Fruit Salads: Fruit Drinks: Can Soda: Water",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Papalote Inc.",
+    "address": "505 HOWARD ST",
+    "location": {
+      "latitude": "37.78798864899528",
+      "longitude": "-122.39610066847152"
+    },
+    "fooditems": "Mexican; Burritos: Burrito Bowls: Salads",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "San Pancho's Tacos",
+    "address": "1271 CAPITOL AVE",
+    "location": {
+      "latitude": "37.724297778527635",
+      "longitude": "-122.45937730954839"
+    },
+    "fooditems": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Casita Vegana",
+    "address": "Assessors Block 7283/Lot004",
+    "location": {
+      "latitude": "37.72188970870838",
+      "longitude": "-122.4925212449949"
+    },
+    "fooditems": "Coffee: Vegan Pastries: Vegan Hot Dogs: Vegan Tamales: Te: Vegan Shakes",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Senor Sisig",
+    "address": "90 BROADWAY",
+    "location": {
+      "latitude": "37.799260113502285",
+      "longitude": "-122.39961794865545"
+    },
+    "fooditems": "Various menu items & drinks",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "CARDONA'S FOOD TRUCK",
+    "address": "1800 MISSION ST",
+    "location": {
+      "latitude": "37.767817181414145",
+      "longitude": "-122.42057533514163"
+    },
+    "fooditems": "Tacos: Burritos: Quesadillas: Various Drinks",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "CARDONA'S FOOD TRUCK",
+    "address": "1888 MISSION ST",
+    "location": {
+      "latitude": "37.766897602559155",
+      "longitude": "-122.42032247306807"
+    },
+    "fooditems": "Tacos: Burritos: Quesadillas: Various Drinks",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "TING TING MINI MOBILE DELI",
+    "address": "1160 REVERE AVE",
+    "location": {
+      "latitude": "37.72723400749586",
+      "longitude": "-122.38181551187014"
+    },
+    "fooditems": "Cold Truck: Pre-packaged sandwiches: snacks: fruit: various beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "TING TING MINI MOBILE DELI",
+    "address": "Assessors Block 3720/Lot001",
+    "location": {
+      "latitude": "37.78969136758703",
+      "longitude": "-122.39659563708379"
+    },
+    "fooditems": "Cold Truck: Pre-packaged sandwiches: snacks: fruit: various beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "MOMO INNOVATION LLC",
+    "address": "1 BUSH ST",
+    "location": {
+      "latitude": "37.79092150726921",
+      "longitude": "-122.4001004237385"
+    },
+    "fooditems": "Noodles",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "TING TING MINI MOBILE DELI",
+    "address": "1127 SHAFTER AVE",
+    "location": {
+      "latitude": "37.725945558046504",
+      "longitude": "-122.38228115325305"
+    },
+    "fooditems": "Cold Truck: Pre-packaged sandwiches: snacks: fruit: various beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "TING TING MINI MOBILE DELI",
+    "address": "1212 THOMAS AVE",
+    "location": {
+      "latitude": "37.7266647697066",
+      "longitude": "-122.38414422460619"
+    },
+    "fooditems": "Cold Truck: Pre-packaged sandwiches: snacks: fruit: various beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "MOMO INNOVATION LLC",
+    "address": "555 MISSION ST",
+    "location": {
+      "latitude": "37.78844615690132",
+      "longitude": "-122.3986412420388"
+    },
+    "fooditems": "Noodles",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "MOMO INNOVATION LLC",
+    "address": "101 CALIFORNIA ST",
+    "location": {
+      "latitude": "37.792948952834664",
+      "longitude": "-122.39809861316652"
+    },
+    "fooditems": "MOMO Spicy Noodle: POPO's Noodle: Spicy Chicken Noodle: Rice Noodles",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "TING TING MINI MOBILE DELI",
+    "address": "1555 BANCROFT AVE",
+    "location": {
+      "latitude": "37.72439752974338",
+      "longitude": "-122.39150511638297"
+    },
+    "fooditems": "Cold Truck: Pre-packaged sandwiches: snacks: fruit: various beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "TING TING MINI MOBILE DELI",
+    "address": "931 PALOU AVE",
+    "location": {
+      "latitude": "37.72673391124156",
+      "longitude": "-122.37897200523552"
+    },
+    "fooditems": "Cold Truck: Pre-packaged sandwiches: snacks: fruit: various beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "TING TING MINI MOBILE DELI",
+    "address": "1145 REVERE AVE",
+    "location": {
+      "latitude": "37.72659047951941",
+      "longitude": "-122.3817522114059"
+    },
+    "fooditems": "Cold Truck: Pre-packaged sandwiches: snacks: fruit: various beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "TING TING MINI MOBILE DELI",
+    "address": "1389 UNDERWOOD AVE",
+    "location": {
+      "latitude": "37.72711043338281",
+      "longitude": "-122.3882612881442"
+    },
+    "fooditems": "Cold Truck: Pre-packaged sandwiches: snacks: fruit: various beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "TING TING MINI MOBILE DELI",
+    "address": "1335 YOSEMITE AVE",
+    "location": {
+      "latitude": "37.72387884083248",
+      "longitude": "-122.3870108787852"
+    },
+    "fooditems": "Cold Truck: Pre-packaged sandwiches: snacks: fruit: various beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "TING TING MINI MOBILE DELI",
+    "address": "1031 QUESADA AVE",
+    "location": {
+      "latitude": "37.72578913981244",
+      "longitude": "-122.37897271962358"
+    },
+    "fooditems": "Cold Truck: Pre-packaged sandwiches: snacks: fruit: various beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "TING TING MINI MOBILE DELI",
+    "address": "1450 DONNER AVE",
+    "location": {
+      "latitude": "37.72305650933894",
+      "longitude": "-122.39111194064196"
+    },
+    "fooditems": "Cold Truck: Pre-packaged sandwiches: snacks: fruit: various beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "MOMO INNOVATION LLC",
+    "address": "351 CALIFORNIA ST",
+    "location": {
+      "latitude": "37.792870749741496",
+      "longitude": "-122.4007474940767"
+    },
+    "fooditems": "Noodles: Meat & Drinks",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "TING TING MINI MOBILE DELI",
+    "address": "1420 YOSEMITE AVE",
+    "location": {
+      "latitude": "37.725181700728754",
+      "longitude": "-122.38819268844395"
+    },
+    "fooditems": "Cold Truck: Pre-packaged sandwiches: snacks: fruit: various beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "TING TING MINI MOBILE DELI",
+    "address": "1440 BANCROFT AVE",
+    "location": {
+      "latitude": "37.72417289276133",
+      "longitude": "-122.38973542901097"
+    },
+    "fooditems": "Cold Truck: Pre-packaged sandwiches: snacks: fruit: various beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "TING TING MINI MOBILE DELI",
+    "address": "1135 REVERE AVE",
+    "location": {
+      "latitude": "37.72647071624597",
+      "longitude": "-122.38154121915817"
+    },
+    "fooditems": "Cold Truck: Pre-packaged sandwiches: snacks: fruit: various beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "TING TING MINI MOBILE DELI",
+    "address": "1300 GRIFFITH ST",
+    "location": {
+      "latitude": "37.727086633951366",
+      "longitude": "-122.38107444874923"
+    },
+    "fooditems": "Cold Truck: Pre-packaged sandwiches: snacks: fruit: various beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "TING TING MINI MOBILE DELI",
+    "address": "1370 VAN DYKE AVE",
+    "location": {
+      "latitude": "37.72695076437817",
+      "longitude": "-122.3879799562619"
+    },
+    "fooditems": "Cold Truck: Pre-packaged sandwiches: snacks: fruit: various beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "TING TING MINI MOBILE DELI",
+    "address": "1180 THOMAS AVE",
+    "location": {
+      "latitude": "37.726125239645036",
+      "longitude": "-122.38319932723887"
+    },
+    "fooditems": "Cold Truck: Pre-packaged sandwiches: snacks: fruit: various beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "TING TING MINI MOBILE DELI",
+    "address": "2115 JENNINGS ST",
+    "location": {
+      "latitude": "37.72672797825706",
+      "longitude": "-122.38865842883155"
+    },
+    "fooditems": "Cold Truck: Pre-packaged sandwiches: snacks: fruit: various beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "TING TING MINI MOBILE DELI",
+    "address": "1450 WALLACE AVE",
+    "location": {
+      "latitude": "37.72614569247294",
+      "longitude": "-122.38822774090347"
+    },
+    "fooditems": "Cold Truck: Pre-packaged sandwiches: snacks: fruit: various beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "TING TING MINI MOBILE DELI",
+    "address": "1475 CARROLL AVE",
+    "location": {
+      "latitude": "37.72325986632415",
+      "longitude": "-122.39117288596881"
+    },
+    "fooditems": "Cold Truck: Pre-packaged sandwiches: snacks: fruit: various beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "TING TING MINI MOBILE DELI",
+    "address": "1337 VAN DYKE AVE",
+    "location": {
+      "latitude": "37.7262494817986",
+      "longitude": "-122.38781536801433"
+    },
+    "fooditems": "Cold Truck: Pre-packaged sandwiches: snacks: fruit: various beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "TING TING MINI MOBILE DELI",
+    "address": "2200 OFARRELL ST",
+    "location": {
+      "latitude": "0.0",
+      "longitude": "0.0"
+    },
+    "fooditems": "Cold Truck: Pre-packaged sandwiches: snacks: fruit: various beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "TING TING MINI MOBILE DELI",
+    "address": "1377 FELL ST",
+    "location": {
+      "latitude": "37.773287940470354",
+      "longitude": "-122.44003231663504"
+    },
+    "fooditems": "Cold Truck: Pre-packaged sandwiches: snacks: fruit: various beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "TING TING MINI MOBILE DELI",
+    "address": "1515 GRIFFITH ST",
+    "location": {
+      "latitude": "37.72531943367549",
+      "longitude": "-122.3813892094274"
+    },
+    "fooditems": "Cold Truck: Pre-packaged sandwiches: snacks: fruit: various beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "TING TING MINI MOBILE DELI",
+    "address": "1460 BANCROFT AVE",
+    "location": {
+      "latitude": "37.72441324329633",
+      "longitude": "-122.39015723961076"
+    },
+    "fooditems": "Cold Truck: Pre-packaged sandwiches: snacks: fruit: various beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "TING TING MINI MOBILE DELI",
+    "address": "1430 YOSEMITE AVE",
+    "location": {
+      "latitude": "37.72549804795053",
+      "longitude": "-122.38836915044175"
+    },
+    "fooditems": "Cold Truck: Pre-packaged sandwiches: snacks: fruit: various beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "TING TING MINI MOBILE DELI",
+    "address": "Assessors Block /Lot",
+    "location": {
+      "latitude": "0.0",
+      "longitude": "0.0"
+    },
+    "fooditems": "Cold Truck: Pre-packaged sandwiches: snacks: fruit: various beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "TING TING MINI MOBILE DELI",
+    "address": "1153 SHAFTER AVE",
+    "location": {
+      "latitude": "37.72648516321647",
+      "longitude": "-122.38323245870731"
+    },
+    "fooditems": "Cold Truck: Pre-packaged sandwiches: snacks: fruit: various beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "TING TING MINI MOBILE DELI",
+    "address": "1500 WALLACE AVE",
+    "location": {
+      "latitude": "37.726725793811774",
+      "longitude": "-122.38924985802704"
+    },
+    "fooditems": "Cold Truck: Pre-packaged sandwiches: snacks: fruit: various beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "TING TING MINI MOBILE DELI",
+    "address": "300 BEALE ST",
+    "location": {
+      "latitude": "37.78813947887162",
+      "longitude": "-122.39257951537353"
+    },
+    "fooditems": "Cold Truck: Pre-packaged sandwiches: snacks: fruit: various beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "TING TING MINI MOBILE DELI",
+    "address": "1351 UNDERWOOD AVE",
+    "location": {
+      "latitude": "37.7270146636245",
+      "longitude": "-122.38749735902202"
+    },
+    "fooditems": "Cold Truck: Pre-packaged sandwiches: snacks: fruit: various beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "TING TING MINI MOBILE DELI",
+    "address": "1265 THOMAS AVE",
+    "location": {
+      "latitude": "37.72670967536868",
+      "longitude": "-122.38529469118737"
+    },
+    "fooditems": "Cold Truck: Pre-packaged sandwiches: snacks: fruit: various beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "TING TING MINI MOBILE DELI",
+    "address": "201 FOLSOM ST",
+    "location": {
+      "latitude": "37.78814528329282",
+      "longitude": "-122.39118192026297"
+    },
+    "fooditems": "Cold Truck: Pre-packaged sandwiches: snacks: fruit: various beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Off the Grid Services, LLC",
+    "address": "44 MARY ST",
+    "location": {
+      "latitude": "37.781372367648615",
+      "longitude": "-122.40661921344578"
+    },
+    "fooditems": "Multiple Food Trucks & Food Types",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Off the Grid Services, LLC",
+    "address": "185 BERRY ST",
+    "location": {
+      "latitude": "37.77632714778992",
+      "longitude": "-122.39179682107691"
+    },
+    "fooditems": "everything except for hot dogs",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Off the Grid Services, LLC",
+    "address": "90 BROADWAY",
+    "location": {
+      "latitude": "37.799260113502285",
+      "longitude": "-122.39961794865545"
+    },
+    "fooditems": "everything except for hot dogs",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Off the Grid Services, LLC",
+    "address": "90 BROADWAY",
+    "location": {
+      "latitude": "37.799260113502285",
+      "longitude": "-122.39961794865545"
+    },
+    "fooditems": "everything except for hot dogs",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Off the Grid Services, LLC",
+    "address": "185 BERRY ST",
+    "location": {
+      "latitude": "37.77632714778992",
+      "longitude": "-122.39179682107691"
+    },
+    "fooditems": "everything except for hot dogs",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Off the Grid Services, LLC",
+    "address": "250 04TH ST",
+    "location": {
+      "latitude": "37.78236012101754",
+      "longitude": "-122.40209599456323"
+    },
+    "fooditems": "everything except for hot dogs",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "El Alambre",
+    "address": "1800 FOLSOM ST",
+    "location": {
+      "latitude": "37.76785244271806",
+      "longitude": "-122.41610489253189"
+    },
+    "fooditems": "Tacos: Burritos: Quesadillas: Tortas",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "El Alambre",
+    "address": "1188 FRANKLIN ST",
+    "location": {
+      "latitude": "37.785271949066775",
+      "longitude": "-122.42260358516438"
+    },
+    "fooditems": "Tacos: Burritos: Quesadillas: Nachos Alambres: Choice of Meat: Carne Asada: Carnitas: Pollo: Al Pastor Camarones",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "El Alambre",
+    "address": "1100 FRANKLIN ST",
+    "location": {
+      "latitude": "37.78484602775554",
+      "longitude": "-122.42256813313709"
+    },
+    "fooditems": "Tacos: Burritos: Quesadillas: Nachos Alambres: Choice of Meat: Carne Asada: Carnitas: Pollo: Al Pastor Camarones",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "El Alambre",
+    "address": "1800 FOLSOM ST",
+    "location": {
+      "latitude": "37.76785244271806",
+      "longitude": "-122.41610489253189"
+    },
+    "fooditems": "Tacos: Burritos: Quesadillas: Tortas",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "La Jefa",
+    "address": "531 BAY SHORE BLVD",
+    "location": {
+      "latitude": "37.738726803987134",
+      "longitude": "-122.40673602990493"
+    },
+    "fooditems": "Tacos: burritos: quesadillas: tortas: nachos (refried beans: cheese sauce: salsa fresca): carnes (beef: chicken: marinated pork: fried pork): canned beans: rice: sodas: horchata drinks.",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Brazuca Grill",
+    "address": "380 10TH ST",
+    "location": {
+      "latitude": "37.77165385136786",
+      "longitude": "-122.41180906852375"
+    },
+    "fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Brazuca Grill",
+    "address": "1400 MINNESOTA ST",
+    "location": {
+      "latitude": "37.75207458620838",
+      "longitude": "-122.39014490082212"
+    },
+    "fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Brazuca Grill",
+    "address": "1051 26TH ST",
+    "location": {
+      "latitude": "37.75126940587811",
+      "longitude": "-122.38989436694435"
+    },
+    "fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Brazuca Grill",
+    "address": "601 23RD ST",
+    "location": {
+      "latitude": "37.755030726766726",
+      "longitude": "-122.38453073422282"
+    },
+    "fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Brazuca Grill",
+    "address": "3305 03RD ST",
+    "location": {
+      "latitude": "37.74383117213268",
+      "longitude": "-122.37779736896212"
+    },
+    "fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Brazuca Grill",
+    "address": "951 INDIANA ST",
+    "location": {
+      "latitude": "37.758786162305626",
+      "longitude": "-122.39095839869275"
+    },
+    "fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Brazuca Grill",
+    "address": "3000 03RD ST",
+    "location": {
+      "latitude": "37.750464115522504",
+      "longitude": "-122.38790832590168"
+    },
+    "fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Brazuca Grill",
+    "address": "1347 DONNER AVE",
+    "location": {
+      "latitude": "37.72145083973351",
+      "longitude": "-122.38935344507568"
+    },
+    "fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Brazuca Grill",
+    "address": "3150 03RD ST",
+    "location": {
+      "latitude": "37.74944293760035",
+      "longitude": "-122.38798553250403"
+    },
+    "fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Brazuca Grill",
+    "address": "1040 MARIPOSA ST",
+    "location": {
+      "latitude": "37.76420237830191",
+      "longitude": "-122.39428524233958"
+    },
+    "fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Brazuca Grill",
+    "address": "640 TEXAS ST",
+    "location": {
+      "latitude": "37.757917056690076",
+      "longitude": "-122.39547585248978"
+    },
+    "fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Brazuca Grill",
+    "address": "601 MARIPOSA ST",
+    "location": {
+      "latitude": "37.764052089924235",
+      "longitude": "-122.39014439398791"
+    },
+    "fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Brazuca Grill",
+    "address": "998 INDIANA ST",
+    "location": {
+      "latitude": "37.758037393488074",
+      "longitude": "-122.3916718906821"
+    },
+    "fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Brazuca Grill",
+    "address": "1255 22ND ST",
+    "location": {
+      "latitude": "37.75701552445967",
+      "longitude": "-122.39406294711628"
+    },
+    "fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Brazuca Grill",
+    "address": "1082 PENNSYLVANIA AVE",
+    "location": {
+      "latitude": "37.75336082945507",
+      "longitude": "-122.39304592079775"
+    },
+    "fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Brazuca Grill",
+    "address": "2085 03RD ST",
+    "location": {
+      "latitude": "37.76329905604463",
+      "longitude": "-122.38848230680541"
+    },
+    "fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Brazuca Grill",
+    "address": "500 FRANCISCO ST",
+    "location": {
+      "latitude": "37.805049509058854",
+      "longitude": "-122.41433443693992"
+    },
+    "fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Brazuca Grill",
+    "address": "368 ELM ST",
+    "location": {
+      "latitude": "37.7813800275549",
+      "longitude": "-122.42314384550635"
+    },
+    "fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Brazuca Grill",
+    "address": "1346 EDDY ST",
+    "location": {
+      "latitude": "37.78186711757412",
+      "longitude": "-122.42988524760261"
+    },
+    "fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Brazuca Grill",
+    "address": "1420 CARROLL AVE",
+    "location": {
+      "latitude": "37.7235768564887",
+      "longitude": "-122.39005910139933"
+    },
+    "fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Brazuca Grill",
+    "address": "1575 INDIANA ST",
+    "location": {
+      "latitude": "37.75084960681246",
+      "longitude": "-122.3900276155014"
+    },
+    "fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Brazuca Grill",
+    "address": "1315 ARMSTRONG AVE",
+    "location": {
+      "latitude": "37.723078757516",
+      "longitude": "-122.38752570401662"
+    },
+    "fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Brazuca Grill",
+    "address": "150 OTIS ST",
+    "location": {
+      "latitude": "37.770683395042624",
+      "longitude": "-122.42087956139908"
+    },
+    "fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Brazuca Grill",
+    "address": "2660 NEWHALL ST",
+    "location": {
+      "latitude": "37.727212173900384",
+      "longitude": "-122.39963625164356"
+    },
+    "fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Brazuca Grill",
+    "address": "640 TENNESSEE ST",
+    "location": {
+      "latitude": "37.76354048392964",
+      "longitude": "-122.39009664366294"
+    },
+    "fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Brazuca Grill",
+    "address": "700 PENNSYLVANIA AVE",
+    "location": {
+      "latitude": "37.75692365373408",
+      "longitude": "-122.39354961053631"
+    },
+    "fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Brazuca Grill",
+    "address": "131 SHOTWELL ST",
+    "location": {
+      "latitude": "37.74793093611294",
+      "longitude": "-122.41519315390947"
+    },
+    "fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Brazuca Grill",
+    "address": "133 SHIPLEY ST",
+    "location": {
+      "latitude": "37.78072409776966",
+      "longitude": "-122.40123539265836"
+    },
+    "fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Brazuca Grill",
+    "address": "815 TENNESSEE ST",
+    "location": {
+      "latitude": "37.76150220396644",
+      "longitude": "-122.38927699608101"
+    },
+    "fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Brazuca Grill",
+    "address": "2150 CESAR CHAVEZ ST",
+    "location": {
+      "latitude": "37.75023688477907",
+      "longitude": "-122.39781803171861"
+    },
+    "fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Brazuca Grill",
+    "address": "790 TENNESSEE ST",
+    "location": {
+      "latitude": "37.761852397504114",
+      "longitude": "-122.38993209325044"
+    },
+    "fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Brazuca Grill",
+    "address": "1090 26TH ST",
+    "location": {
+      "latitude": "37.751608413578936",
+      "longitude": "-122.39030948950146"
+    },
+    "fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Brazuca Grill",
+    "address": "1411 MARKET ST",
+    "location": {
+      "latitude": "37.7758255197583",
+      "longitude": "-122.41724962664345"
+    },
+    "fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Brazuca Grill",
+    "address": "3255 03RD ST",
+    "location": {
+      "latitude": "37.748445338837655",
+      "longitude": "-122.38687903197963"
+    },
+    "fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Brazuca Grill",
+    "address": "6000 03RD ST",
+    "location": {
+      "latitude": "37.723979903892854",
+      "longitude": "-122.39590345491315"
+    },
+    "fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Brazuca Grill",
+    "address": "2030 03RD ST",
+    "location": {
+      "latitude": "37.7636598013494",
+      "longitude": "-122.38913385740454"
+    },
+    "fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Brazuca Grill",
+    "address": "208 PENNSYLVANIA AVE",
+    "location": {
+      "latitude": "37.763462959906555",
+      "longitude": "-122.39401294737715"
+    },
+    "fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Brazuca Grill",
+    "address": "1750 FOLSOM ST",
+    "location": {
+      "latitude": "37.76890352056648",
+      "longitude": "-122.41598117460148"
+    },
+    "fooditems": "Cold Truck: Sandwiches: Noodles:  Pre-packaged Snacks: Candy: Desserts Various Beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Truly Food & More",
+    "address": "602 MISSION ST",
+    "location": {
+      "latitude": "37.78797328321604",
+      "longitude": "-122.40018504988889"
+    },
+    "fooditems": "Latin Food: Tacos: Pupusas: Vegetables: Salad: Waters: Sodas",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Truly Food & More",
+    "address": "505 HOWARD ST",
+    "location": {
+      "latitude": "37.78798864899528",
+      "longitude": "-122.39610066847152"
+    },
+    "fooditems": "Latin Food: Tacos: Pupusas: Vegetables: Salad: Waters: Sodas",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Truly Food & More",
+    "address": "217 SANSOME ST",
+    "location": {
+      "latitude": "37.79238986198323",
+      "longitude": "-122.40126969523558"
+    },
+    "fooditems": "Latin Food: Tacos: Pupusas: Vegetables: Salad: Waters: Sodas",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Buenafe",
+    "address": "220 RANKIN ST",
+    "location": {
+      "latitude": "37.74574924062031",
+      "longitude": "-122.3924814876784"
+    },
+    "fooditems": "Tacos: Burritos: Quesadillas: Tortas",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Buenafe",
+    "address": "750 PHELPS ST",
+    "location": {
+      "latitude": "37.73944545286909",
+      "longitude": "-122.39301498669842"
+    },
+    "fooditems": "Tacos: Burritos: Quesadillas: Tortas",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Papalote Inc.",
+    "address": "60 SPEAR ST",
+    "location": {
+      "latitude": "37.792535988431084",
+      "longitude": "-122.39459319923499"
+    },
+    "fooditems": "Mexican; Burritos: Burrito Bowls: Salads",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "The New York Frankfurter Co. of CA, Inc. DBA: Annie's Hot Dogs",
+    "address": "101 STOCKTON ST",
+    "location": {
+      "latitude": "37.786856111883054",
+      "longitude": "-122.40689189299718"
+    },
+    "fooditems": "Soft Pretzels: hot dogs: sausage: chips: popcorn: soda: espresso: cappucino: pastries: ice cream: italian sausages: shish-ka-bob: churros: juice: water: various drinks",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Philz Coffee Truck",
+    "address": "556 SUTTER ST",
+    "location": {
+      "latitude": "37.789385451039095",
+      "longitude": "-122.4095912604668"
+    },
+    "fooditems": "Hot coffee: iced coffee: hot chocolate: tea: pastries",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "The New York Frankfurter Co. of CA, Inc. DBA: Annie's Hot Dogs",
+    "address": "870 MARKET ST",
+    "location": {
+      "latitude": "37.78511092044776",
+      "longitude": "-122.40742266827704"
+    },
+    "fooditems": "Soft pretzels: hot dogs: sausages: chips: popcorn: soda: espresso: cappucino: pastry: ica cream: ices: italian sausage: shish-ka-bob: churros: juice: water: various drinks",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Philz Coffee Truck",
+    "address": "250 PINE ST",
+    "location": {
+      "latitude": "37.79229559981873",
+      "longitude": "-122.40070689723306"
+    },
+    "fooditems": "Hot coffee: iced coffee: hot chocolate: tea: pastries",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "The New York Frankfurter Co. of CA, Inc. DBA: Annie's Hot Dogs",
+    "address": "800 MARKET ST",
+    "location": {
+      "latitude": "37.785469746489916",
+      "longitude": "-122.40661576107294"
+    },
+    "fooditems": "Soft pretzels: hot dogs: sausages: chips: popcorn: sodea: coffee: espresso: cappucino: pastries: ice cream: Italian sausages: shish-ka-bob: churros: juice: water: various drinks.",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Philz Coffee Truck",
+    "address": "15 MARINA BLVD",
+    "location": {
+      "latitude": "37.80457786909011",
+      "longitude": "-122.43301077434302"
+    },
+    "fooditems": "Hot coffee: iced coffee: hot chocolate: tea: pastries",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Philz Coffee Truck",
+    "address": "735 MONTGOMERY ST",
+    "location": {
+      "latitude": "37.79621549659414",
+      "longitude": "-122.40375455824538"
+    },
+    "fooditems": "Hot coffee: iced coffee: hot chocolate: tea: pastries",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Philz Coffee Truck",
+    "address": "401 CALIFORNIA ST",
+    "location": {
+      "latitude": "37.79279574157871",
+      "longitude": "-122.40135328093122"
+    },
+    "fooditems": "Hot coffee: iced coffee: hot chocolate: tea: pastries",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Buenafe",
+    "address": "901 16TH ST",
+    "location": {
+      "latitude": "37.76612469442701",
+      "longitude": "-122.39547306227007"
+    },
+    "fooditems": "Tacos burritos quesadillas tortas pupusas flautas tamales",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Senor Sisig",
+    "address": "901 MISSION ST",
+    "location": {
+      "latitude": "37.78215364099855",
+      "longitude": "-122.40660110683912"
+    },
+    "fooditems": "Senor Sisig: Filipino fusion food: tacos: burritos: nachos: rice plates. Various beverages.",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Eva's Catering",
+    "address": "1100 ORTEGA ST",
+    "location": {
+      "latitude": "37.752660520412284",
+      "longitude": "-122.47547353178139"
+    },
+    "fooditems": "Cold Truck: Burrito: Corn Dog: Salads: Sandwiches: Quesadilla: Tacos: Fried Rice: Cow Mein: Chinese Rice: Noodle Plates: Soup: Bacon: Eggs: Ham: Avacado: Sausages: Beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Eva's Catering",
+    "address": "1900 19TH AVE",
+    "location": {
+      "latitude": "37.75212416311866",
+      "longitude": "-122.47587232222202"
+    },
+    "fooditems": "Cold Truck: Burrito: Corn Dog: Salads: Sandwiches: Quesadilla: Tacos: Fried Rice: Cow Mein: Chinese Rice: Noodle Plates: Soup: Bacon: Eggs: Ham: Avacado: Sausages: Beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Senor Sisig",
+    "address": "101 CALIFORNIA ST",
+    "location": {
+      "latitude": "37.792948952834664",
+      "longitude": "-122.39809861316652"
+    },
+    "fooditems": "Senor Sisig: Filipino fusion food: tacos: burritos: nachos: rice plates. Various beverages.",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Eva's Catering",
+    "address": "630 BRANNAN ST",
+    "location": {
+      "latitude": "37.77609875315735",
+      "longitude": "-122.40028723986815"
+    },
+    "fooditems": "Cold Truck: Burrito: Corn Dog: Salads: Sandwiches: Quesadilla: Tacos: Fried Rice: Cow Mein: Chinese Rice: Noodle Plates: Soup: Bacon: Eggs: Ham: Avacado: Sausages: Beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Eva's Catering",
+    "address": "530 05TH ST",
+    "location": {
+      "latitude": "37.77687638877653",
+      "longitude": "-122.40025957520209"
+    },
+    "fooditems": "Cold Truck: Burrito: Corn Dog: Salads: Sandwiches: Quesadilla: Tacos: Fried Rice: Cow Mein: Chinese Rice: Noodle Plates: Soup: Bacon: Eggs: Ham: Avacado: Sausages: Beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Eva's Catering",
+    "address": "2045 EVANS AVE",
+    "location": {
+      "latitude": "37.747772091607466",
+      "longitude": "-122.39703171897757"
+    },
+    "fooditems": "Cold Truck: Burrito: Corn Dog: Salads: Sandwiches: Quesadilla: Tacos: Fried Rice: Cow Mein: Chinese Rice: Noodle Plates: Soup: Bacon: Eggs: Ham: Avacado: Sausages: Beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Eva's Catering",
+    "address": "1650 20TH AVE",
+    "location": {
+      "latitude": "37.75798419052856",
+      "longitude": "-122.43346578040662"
+    },
+    "fooditems": "Cold Truck: Burrito: Corn Dog: Salads: Sandwiches: Quesadilla: Tacos: Fried Rice: Cow Mein: Chinese Rice: Noodle Plates: Soup: Bacon: Eggs: Ham: Avacado: Sausages: Beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Eva's Catering",
+    "address": "1199 ORTEGA ST",
+    "location": {
+      "latitude": "37.78350912221273",
+      "longitude": "-122.49007120809986"
+    },
+    "fooditems": "Cold Truck: Burrito: Corn Dog: Salads: Sandwiches: Quesadilla: Tacos: Fried Rice: Cow Mein: Chinese Rice: Noodle Plates: Soup: Bacon: Eggs: Ham: Avacado: Sausages: Beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Tacos El Flaco",
+    "address": "2901 03RD ST",
+    "location": {
+      "latitude": "37.75240499247832",
+      "longitude": "-122.38700019629786"
+    },
+    "fooditems": "Tacos: Burritos: Tortas: Quesadillas: Chips & Salsa & Various Beverages",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Senor Sisig",
+    "address": "120 02ND ST",
+    "location": {
+      "latitude": "37.787514060738104",
+      "longitude": "-122.39956633142907"
+    },
+    "fooditems": "Filipino fusion food: taco: burrito: nachos: rice plates",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "San Pancho's Tacos",
+    "address": "3119 ALEMANY BLVD",
+    "location": {
+      "latitude": "37.71019301997575",
+      "longitude": "-122.4552219061259"
+    },
+    "fooditems": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Senor Sisig",
+    "address": "300 PINE ST",
+    "location": {
+      "latitude": "0.0",
+      "longitude": "0.0"
+    },
+    "fooditems": "Filipino fusion food: tacos: burritos: nachos: rice plates. Various beverages.",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Senor Sisig",
+    "address": "120 ELLIS ST",
+    "location": {
+      "latitude": "37.78561008636915",
+      "longitude": "-122.40815476434545"
+    },
+    "fooditems": "Filipino fusion food: taco: burrito: nachos: rice plates",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Senor Sisig",
+    "address": "90 BROADWAY",
+    "location": {
+      "latitude": "37.799260113502285",
+      "longitude": "-122.39961794865545"
+    },
+    "fooditems": "Senor Sisig: Filipino fusion food: tacos: burritos: nachos: rice plates. Various beverages.Chairman Bao: Vegetable and meat sandwiches filled with Asian-flavored meats and vegetables.",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "San Pancho's Tacos",
+    "address": "491 BAY SHORE BLVD",
+    "location": {
+      "latitude": "0.0",
+      "longitude": "0.0"
+    },
+    "fooditems": "Tacos: Burritos: Quesadillas: Tortas: Nachos: Hot Dogs:Soda: Water: Fruit Drinks",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Senor Sisig",
+    "address": "8 10TH ST",
+    "location": {
+      "latitude": "37.7758255197583",
+      "longitude": "-122.41724962664345"
+    },
+    "fooditems": "Senor Sisig: Filipino fusion food: tacos: burritos: nachos: rice plates. Various beverages.Chairman Bao: Vegetable and meat sandwiches filled with Asian-flavored meats and vegetables.",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Eva's Catering",
+    "address": "2600 INGALLS ST",
+    "location": {
+      "latitude": "37.722629217598346",
+      "longitude": "-122.39006184632663"
+    },
+    "fooditems": "Corndogs: fried burrito: rice placet: soda: water: sandwiches: soup: noodle plates",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "San Francisco's Hometown Creamery",
+    "address": "1 MONTGOMERY ST",
+    "location": {
+      "latitude": "37.78924953407508",
+      "longitude": "-122.40241859729358"
+    },
+    "fooditems": "Ice Cream: Waffle Cones",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "San Francisco's Hometown Creamery",
+    "address": "340 POST ST",
+    "location": {
+      "latitude": "37.78869699864027",
+      "longitude": "-122.40747042036952"
+    },
+    "fooditems": "Ice Cream: Waffle Cones",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "San Francisco's Hometown Creamery",
+    "address": "301 PINE ST",
+    "location": {
+      "latitude": "37.79183426305553",
+      "longitude": "-122.40127961659626"
+    },
+    "fooditems": "Ice cream & Waffle cones",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "San Francisco's Hometown Creamery",
+    "address": "425 CALIFORNIA ST",
+    "location": {
+      "latitude": "37.79279574157871",
+      "longitude": "-122.40135328093122"
+    },
+    "fooditems": "Ice Cream: Waffle Cones",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "San Francisco's Hometown Creamery",
+    "address": "281 GEARY ST",
+    "location": {
+      "latitude": "37.787136491086116",
+      "longitude": "-122.4077185090006"
+    },
+    "fooditems": "Ice Cream & Waffle Cones",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Natan's Catering",
+    "address": "Assessors Block 4046/Lot001",
+    "location": {
+      "latitude": "37.76200845803014",
+      "longitude": "-122.38544181156826"
+    },
+    "fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Natan's Catering",
+    "address": "600 16TH ST",
+    "location": {
+      "latitude": "37.76746628714475",
+      "longitude": "-122.39086028943053"
+    },
+    "fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Natan's Catering",
+    "address": "Assessors Block 5598/Lot031",
+    "location": {
+      "latitude": "37.74030387280596",
+      "longitude": "-122.4060597434942"
+    },
+    "fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Natan's Catering",
+    "address": "350 KANSAS ST",
+    "location": {
+      "latitude": "37.76537066931712",
+      "longitude": "-122.40390784821223"
+    },
+    "fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Natan's Catering",
+    "address": "66 POTRERO AVE",
+    "location": {
+      "latitude": "37.76854328902419",
+      "longitude": "-122.40849289243862"
+    },
+    "fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Rita's Catering",
+    "address": "1028 MISSION ST",
+    "location": {
+      "latitude": "37.78069437740818",
+      "longitude": "-122.40966881321906"
+    },
+    "fooditems": "Filipino Food",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Natan's Catering",
+    "address": "2101 03RD ST",
+    "location": {
+      "latitude": "0.0",
+      "longitude": "0.0"
+    },
+    "fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Natan's Catering",
+    "address": "1650 03RD ST",
+    "location": {
+      "latitude": "37.769124412168054",
+      "longitude": "-122.39147491124585"
+    },
+    "fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Natan's Catering",
+    "address": "1140 07TH ST",
+    "location": {
+      "latitude": "37.7682493867935",
+      "longitude": "-122.39843065021364"
+    },
+    "fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Natan's Catering",
+    "address": "Assessors Block 3941/Lot001",
+    "location": {
+      "latitude": "37.764741322674965",
+      "longitude": "-122.38712481217911"
+    },
+    "fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Natan's Catering",
+    "address": "Assessors Block 8732/Lot001",
+    "location": {
+      "latitude": "37.77070297609754",
+      "longitude": "-122.39079035556641"
+    },
+    "fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Natan's Catering",
+    "address": "2045 EVANS AVE",
+    "location": {
+      "latitude": "37.747772091607466",
+      "longitude": "-122.39703171897757"
+    },
+    "fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Natan's Catering",
+    "address": "Assessors Block 5216/Lot030",
+    "location": {
+      "latitude": "37.74540642941645",
+      "longitude": "-122.39008122484672"
+    },
+    "fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Natan's Catering",
+    "address": "Assessors Block 4058/Lot010",
+    "location": {
+      "latitude": "37.761182994505084",
+      "longitude": "-122.38811870407658"
+    },
+    "fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Natan's Catering",
+    "address": "3335 17TH ST",
+    "location": {
+      "latitude": "37.76315639322651",
+      "longitude": "-122.42032223152648"
+    },
+    "fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Natan's Catering",
+    "address": "Assessors Block 4296/Lot010",
+    "location": {
+      "latitude": "37.75240499247832",
+      "longitude": "-122.38700019629786"
+    },
+    "fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Natan's Catering",
+    "address": "Assessors Block 8722/Lot001",
+    "location": {
+      "latitude": "37.76799554568555",
+      "longitude": "-122.38754942654721"
+    },
+    "fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Natan's Catering",
+    "address": "151 MENDELL ST",
+    "location": {
+      "latitude": "37.742820234675946",
+      "longitude": "-122.38284735551785"
+    },
+    "fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Natan's Catering",
+    "address": "3040 HARRISON ST",
+    "location": {
+      "latitude": "37.748848056566345",
+      "longitude": "-122.41261899465519"
+    },
+    "fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Natan's Catering",
+    "address": "950 HARRISON ST",
+    "location": {
+      "latitude": "37.778388615786554",
+      "longitude": "-122.40319178322909"
+    },
+    "fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Natan's Catering",
+    "address": "50 QUINT ST",
+    "location": {
+      "latitude": "37.746470506647114",
+      "longitude": "-122.38899080865444"
+    },
+    "fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Natan's Catering",
+    "address": "400 ALEMANY BLVD",
+    "location": {
+      "latitude": "37.73314239514255",
+      "longitude": "-122.41456863241858"
+    },
+    "fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Natan's Catering",
+    "address": "Assessors Block 4227/Lot012",
+    "location": {
+      "latitude": "37.75315510671546",
+      "longitude": "-122.3911741844557"
+    },
+    "fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Natan's Catering",
+    "address": "555 MISSOURI ST",
+    "location": {
+      "latitude": "37.75930376638337",
+      "longitude": "-122.39590223123567"
+    },
+    "fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Natan's Catering",
+    "address": "3201 03RD ST",
+    "location": {
+      "latitude": "37.748445338837655",
+      "longitude": "-122.38687903197963"
+    },
+    "fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Natan's Catering",
+    "address": "888 MARIN ST",
+    "location": {
+      "latitude": "37.74945832902701",
+      "longitude": "-122.38508133967831"
+    },
+    "fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Natan's Catering",
+    "address": "Assessors Block 4172/Lot010",
+    "location": {
+      "latitude": "37.75712456038606",
+      "longitude": "-122.3885295152567"
+    },
+    "fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Natan's Catering",
+    "address": "Assessors Block 4103/Lot023A",
+    "location": {
+      "latitude": "37.758303395642486",
+      "longitude": "-122.39351405481675"
+    },
+    "fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Natan's Catering",
+    "address": "1801 EVANS AVE",
+    "location": {
+      "latitude": "37.74459119509166",
+      "longitude": "-122.39307688085802"
+    },
+    "fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Natan's Catering",
+    "address": "Assessors Block 5369/Lot003",
+    "location": {
+      "latitude": "37.73811777159187",
+      "longitude": "-122.40441846721173"
+    },
+    "fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Natan's Catering",
+    "address": "1580 BURKE AVE",
+    "location": {
+      "latitude": "37.74475219161639",
+      "longitude": "-122.38567924872147"
+    },
+    "fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Natan's Catering",
+    "address": "Assessors Block 4241/Lot002",
+    "location": {
+      "latitude": "37.75334000118106",
+      "longitude": "-122.38412838423727"
+    },
+    "fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Natan's Catering",
+    "address": "Assessors Block 4281a/Lot012A",
+    "location": {
+      "latitude": "37.75076076946013",
+      "longitude": "-122.40154029135653"
+    },
+    "fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Natan's Catering",
+    "address": "146 CONNECTICUT ST",
+    "location": {
+      "latitude": "37.764447295561894",
+      "longitude": "-122.397987371508"
+    },
+    "fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Natan's Catering",
+    "address": "435 23RD ST",
+    "location": {
+      "latitude": "37.755030726766726",
+      "longitude": "-122.38453073422282"
+    },
+    "fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Natan's Catering",
+    "address": "Assessors Block 8722/Lot003",
+    "location": {
+      "latitude": "37.76743301733124",
+      "longitude": "-122.39214911417167"
+    },
+    "fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Natan's Catering",
+    "address": "Assessors Block 7295/Lot022",
+    "location": {
+      "latitude": "37.730003683189196",
+      "longitude": "-122.4781863254146"
+    },
+    "fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  },
+  {
+    "businessName": "Natan's Catering",
+    "address": "Assessors Block 4315/Lot03008",
+    "location": {
+      "latitude": "0.0",
+      "longitude": "0.0"
+    },
+    "fooditems": "Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+    "status": "APPROVED",
+    "zipcode": "",
+    "neighborhood": "Unknown"
+  }
+]
