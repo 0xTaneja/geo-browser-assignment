@@ -3,8 +3,17 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc",
+    "clean": "rm -rf dist",
+    "prebuild": "npm run clean",
+    "generate": "node --loader ts-node/esm src/generators/restaurant-triple-generator.ts",
+    "start:generate": "npm run build && node dist/generators/restaurant-triple-generator.js",
+    "publish-ipfs": "node --loader ts-node/esm src/publishers/ipfs-publisher.ts",
+    "start:publish-ipfs": "npm run build && node dist/publishers/ipfs-publisher.js",
+    "publish-testnet": "node --loader ts-node/esm src/publishers/geo-testnet-publisher.ts",
+    "start:publish-testnet": "npm run build && node dist/publishers/geo-testnet-publisher.js"
   },
   "keywords": [],
   "author": "",
@@ -17,6 +26,7 @@
     "crypto": "^1.0.1",
     "dotenv": "^16.5.0",
     "ts-node": "^10.9.2",
-    "typescript": "^5.8.3"
+    "typescript": "^5.8.3",
+    "viem": "^2.29.4"
   }
 }
