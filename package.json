@@ -13,7 +13,8 @@
     "publish-ipfs": "node --loader ts-node/esm src/publishers/ipfs-publisher.ts",
     "start:publish-ipfs": "npm run build && node dist/publishers/ipfs-publisher.js",
     "publish-testnet": "node --loader ts-node/esm src/publishers/geo-testnet-publisher.ts",
-    "start:publish-testnet": "npm run build && node dist/publishers/geo-testnet-publisher.js"
+    "start:publish-testnet": "npm run build && node dist/publishers/geo-testnet-publisher.js",
+    "create-space": "node --loader ts-node/esm src/create-space.ts"
   },
   "keywords": [],
   "author": "",
