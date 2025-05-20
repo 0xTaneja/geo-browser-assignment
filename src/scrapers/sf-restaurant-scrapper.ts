@@ -1,13 +1,18 @@
 import axios from "axios";
 import fs from "fs";
-import path from "path"
-import dotenv from "dotenv"
+import path from "path";
+import dotenv from "dotenv";
+import { fileURLToPath } from "url";
+import { dirname } from "path";
 
-dotenv.config()
+dotenv.config();
 
 const apiUrl = "https://data.sfgov.org/resource/rqzj-sfat.json";
 
-const DATA_FILE = path.join(__dirname,'../../data/sf_restaurants.json')
+// ES Module fix for __dirname
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
+const DATA_FILE = path.join(__dirname,'../../data/sf_restaurants.json');
 
 interface Restaurant {
   businessName: string;

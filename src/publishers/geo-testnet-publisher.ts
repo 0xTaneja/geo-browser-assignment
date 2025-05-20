@@ -11,7 +11,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const IPFS_HASH_FILE = path.join(__dirname, '../../data/ipfs_hashes.json');
-const spaceId = "NCdYgAuRjEYgsRrzQ5W4NC"; // Armando Space Id - I need to edit this with my space id 
+const SPACE_ID_FILE = path.join(__dirname, '../../data/space_id.json');
 
 async function readIpfsHash() {
     try {
@@ -21,6 +21,18 @@ async function readIpfsHash() {
     }
     catch (error) {
         console.error('Error reading IPFS hash file', error);
+        throw error;
+    }
+}
+
+async function readSpaceId() {
+    try {
+        const data = await fs.promises.readFile(SPACE_ID_FILE, 'utf-8');
+        const result = JSON.parse(data);
+        return result.spaceId;
+    }
+    catch (error) {
+        console.error('Error reading Space ID file', error);
         throw error;
     }
 }
@@ -46,6 +58,9 @@ async function publishToGeoTestnet() {
     try {
         const ipfsHash = await readIpfsHash();
         console.log(`IPFS hash to publish : ${ipfsHash}`);
+
+        const spaceId = await readSpaceId();
+        console.log(`Using space ID: ${spaceId}`);
 
         const walletClient = await setupWallet();
 

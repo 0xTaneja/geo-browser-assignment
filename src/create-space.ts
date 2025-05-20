@@ -37,9 +37,6 @@ async function createSpace() {
 
         const result = await fetch("https://api-testnet.grc-20.thegraph.com/deploy", {
             method: "POST",
-            headers: {
-                "Content-Type": "application/json",
-            },
             body: requestBody,
         });
 
@@ -66,7 +63,7 @@ async function createSpace() {
         try {
             const responseJson = JSON.parse(responseText);
             console.log("Space created successfully:", responseJson);
-            console.log("Your new Space ID is:", responseJson.id);
+            console.log("Your new Space ID is:", responseJson.spaceId);
 
 
 
@@ -77,14 +74,14 @@ async function createSpace() {
 
             const SPACE_ID_FILE = path.join(__dirname, '../data/space_id.json');
             await fs.promises.writeFile(SPACE_ID_FILE, JSON.stringify({
-                spaceId: responseJson.id,
+                spaceId: responseJson.spaceId,
                 spaceName,
                 createdAt: new Date().toISOString()
             }, null, 2));
 
             console.log(`Space ID saved to ${SPACE_ID_FILE}`);
 
-            return responseJson.id;
+            return responseJson.spaceId;
         } catch (error) {
             console.error("Error parsing JSON response:", error);
             throw error;

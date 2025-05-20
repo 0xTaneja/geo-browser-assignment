@@ -10,6 +10,8 @@
     "prebuild": "npm run clean",
     "generate": "node --loader ts-node/esm src/generators/restaurant-triple-generator.ts",
     "start:generate": "npm run build && node dist/generators/restaurant-triple-generator.js",
+    "scrape": "node --loader ts-node/esm src/scrapers/sf-restaurant-scrapper.ts",
+    "start:scrape": "npm run build && node dist/scrapers/sf-restaurant-scrapper.js",
     "publish-ipfs": "node --loader ts-node/esm src/publishers/ipfs-publisher.ts",
     "start:publish-ipfs": "npm run build && node dist/publishers/ipfs-publisher.js",
     "publish-testnet": "node --loader ts-node/esm src/publishers/geo-testnet-publisher.ts",
